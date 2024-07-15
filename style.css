@@ -1,0 +1,13 @@
+body{background:white;}
+
+h1{
+	color:black;
+}
+
+p{
+	color:black;
+	font-size: 30px;
+}
+li{
+	display:inline;
+}
